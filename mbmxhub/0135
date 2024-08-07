@@ -6,7 +6,7 @@
     mbm x hub - blox fruits
 --]]
     setclipboard("https://discord.gg/kuXFw2HkdN")
-    game.Players.LocalPlayer:Kick("Inactive for a period of time\nStatus : https://discord.gg/kuXFw2HkdN")
+    game.Players.LocalPlayer:Kick("get new script in discord")
     repeat wait(.1)
         print("Check script here : https://discord.gg/kuXFw2HkdN")
         until game.CoreGui:FindFirstChild("|")
