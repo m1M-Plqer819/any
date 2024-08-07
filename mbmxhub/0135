@@ -1,7 +1,6 @@
     setclipboard("https://discord.gg/kuXFw2HkdN")
     game.Players.LocalPlayer:Kick("get new script in discord")
     repeat wait(.1)
-        print("Check script here : https://discord.gg/kuXFw2HkdN")
         until game.CoreGui:FindFirstChild("|")
      task.delay(1 * 25, function()
      game:Shutdown() 
