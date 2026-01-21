@@ -1,10 +1,3 @@
---[[
-    script made by minh - or call me by the name you like
-    18/10/ ? VN
-
-    bio : https://bio.site/m1m - my server : https://dsc.gg/m1m-link
-    mbm x hub - blox fruits
---]]
 
 game.Players.LocalPlayer:Kick("Join my discord to get new script (https://dsc.gg/m1m)")
 setclipboard("https://dsc.gg/m1m")
